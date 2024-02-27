@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[sample.ts:4](https://github.com/s-shima999/test_tsdoc/blob/1a7a190/src/sample.ts#L4)
+[sample.ts:4](https://github.com/s-shima999/test_tsdoc/blob/907f2da/src/sample.ts#L4)
 
 ___
 
@@ -39,4 +39,4 @@ ___
 
 #### Defined in
 
-[sample.ts:11](https://github.com/s-shima999/test_tsdoc/blob/1a7a190/src/sample.ts#L11)
+[sample.ts:11](https://github.com/s-shima999/test_tsdoc/blob/907f2da/src/sample.ts#L11)
