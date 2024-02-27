@@ -1,16 +1,11 @@
 {
   "devDependencies": {
-    "typedoc": "^0.25.8",
-    "typedoc-plugin-markdown": "^3.17.1",
     "typescript": "^5.3.3"
   },
   "name": "dev",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "doc": "typedoc --entryPointStrategy expand ./src",
-    "doc:md": "typedoc --plugin typedoc-plugin-markdown ./src/**/*.ts"
-  },
+  "scripts": {},
   "author": "",
   "license": "ISC",
   "description": ""
